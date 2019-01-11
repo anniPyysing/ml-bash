@@ -9,3 +9,8 @@ export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
 
 git clone https://github.com/anniPyysing/ml.git
+
+rmdir work
+rm get-started.bash
+
+pip install numpy --upgrade
