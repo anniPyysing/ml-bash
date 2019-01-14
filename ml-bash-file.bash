@@ -13,4 +13,4 @@ git clone https://github.com/anniPyysing/ml.git
 rmdir work
 rm ml-bash-file.bash
 
-pip install numpy --upgrade
+#pip install numpy --upgrade
